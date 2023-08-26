@@ -26,6 +26,15 @@
     "clear G8",
     "clear F8", 
     "clear C1", 
-    "clear C2"
+    "clear C2",
+
+    "clear A1",
+    "clear A2",
+    "clear B1",
+    "clear B2",
+
+    "flag A3",
+    "clear B3"
+
   ]
 }
